@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=timeAuto&height=300&section=header&text=Welcome%20to%20Juuunie%20World!&fontSize=90)
+![](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Welcome%20to%20Juuunie%20World!&fontSize=30)
 ### Hi there 👋
 
 <!--
